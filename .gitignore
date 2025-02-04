@@ -1,0 +1,13 @@
+*.zip
+hardware/ESP32-DevKit-Lipo_Rev_C-backups
+hardware/Gerbers
+*.vs
+**/bin/
+**/obj/
+*/packages
+*/.vs
+README.pdf
+*.7z
+*.msi
+*.vdproj
+

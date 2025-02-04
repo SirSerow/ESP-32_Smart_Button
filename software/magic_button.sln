@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "magic_button", "magic_button\magic_button.csproj", "{FBDBCCE8-B6E6-4C85-8A07-156C6030E756}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OneClickSetup", "OneClickSetup\OneClickSetup.vdproj", "{35CA43CD-CDF2-4F37-9464-6561C1CCB4C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDBCCE8-B6E6-4C85-8A07-156C6030E756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDBCCE8-B6E6-4C85-8A07-156C6030E756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDBCCE8-B6E6-4C85-8A07-156C6030E756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDBCCE8-B6E6-4C85-8A07-156C6030E756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CA43CD-CDF2-4F37-9464-6561C1CCB4C4}.Debug|Any CPU.ActiveCfg = Debug
+		{35CA43CD-CDF2-4F37-9464-6561C1CCB4C4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE11E69B-62FB-4FF4-A523-C67D51FEAB89}
+	EndGlobalSection
+EndGlobal

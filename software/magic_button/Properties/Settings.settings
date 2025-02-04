@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="magic_button.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FirstStartupDate" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StartupAppSet" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="defaultLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultCallNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultCallName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultEmailAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultEmailSubject" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultStartupApp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">call</Value>
+    </Setting>
+    <Setting Name="defaultApplicationDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultApplicationName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultQuickConfigLeft" Type="System.String" Scope="User">
+      <Value Profile="(Default)">link</Value>
+    </Setting>
+    <Setting Name="defaultQuickConfigCenter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">call</Value>
+    </Setting>
+    <Setting Name="defaultQuickConfigRight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

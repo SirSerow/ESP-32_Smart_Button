@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Synkom\Projects\display_control\hardware\devkit-lipo\ESP32-DevKit-LiPo\HARDWARE\ESP32-DevKit-LiPo-Rev.C\ESP32-DevKit-Lipo_Rev_C.kicad_sch</source>
+    <date>9/19/2023 3:00:29 PM</date>
+    <tool>Eeschema 7.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev>C</rev>
+        <date>2020-06-09</date>
+        <source>ESP32-DevKit-Lipo_Rev_C.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BAT1">
+      <value>DW02S</value>
+      <footprint>Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="BAT_CON" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000581425a7</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>22uF/6.3V/20%/X5R/C0603</value>
+      <footprint>OLIMEX_RLC-FP:C_0603_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="C" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580dc771</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>27pF/50V/5%/C0G/C0402</value>
+      <footprint>OLIMEX_RLC-FP:C_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="C" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058d7490c</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>27pF/50V/5%/C0G/C0402</value>
+      <footprint>OLIMEX_RLC-FP:C_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="C" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058d751c0</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>22uF/6.3V/20%/X5R/C0603</value>
+      <footprint>OLIMEX_RLC-FP:C_0603_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="C" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058d54432</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF/10V/10%/X7R/C0402</value>
+      <footprint>OLIMEX_RLC-FP:C_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="C" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058d603a7</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>22uF/6.3V/20%/X5R/C0603</value>
+      <footprint>OLIMEX_RLC-FP:C_0603_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="C" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058e558f6</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>22uF/6.3V/20%/X5R/C0603</value>
+      <footprint>OLIMEX_RLC-FP:C_0603_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="C" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c1aa338</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF/10V/10%/X5R/C0603</value>
+      <footprint>OLIMEX_RLC-FP:C_0603_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="C" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e7535b8</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF/10V/10%/X7R/C0402</value>
+      <footprint>OLIMEX_RLC-FP:C_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="C" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c92a162</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF/10V/10%/X7R/C0402</value>
+      <footprint>OLIMEX_RLC-FP:C_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="C" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7ee5c34-efe7-4c30-babd-f2f5e51f44de</tstamps>
+    </comp>
+    <comp ref="CHARGING1">
+      <value>LED/YELLOW/0603</value>
+      <footprint>OLIMEX_LEDs-FP:LED_0603_KA</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="LED" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005810aba2</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N5819S4/SOD123</value>
+      <footprint>OLIMEX_Diodes-FP:SOD-123_1C-2A_KA</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cb7df70</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N5819S4/SOD123</value>
+      <footprint>OLIMEX_Diodes-FP:SOD-123_1C-2A_KA</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="D_Schottky" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000581010c5</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>BAT54C(SOT23-3)</value>
+      <footprint>OLIMEX_Diodes-FP:SOT23-3</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="BAT54C(SOT23-3)" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058f77bd8</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N5819S4/SOD123</value>
+      <footprint>OLIMEX_Diodes-FP:SOD-123_1C-2A_KA</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dc4a209</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N5819S4/SOD123</value>
+      <footprint>OLIMEX_Diodes-FP:SOD-123_1C-2A_KA</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dbdf72a</tstamps>
+    </comp>
+    <comp ref="D_Com1">
+      <value>TESTPAD</value>
+      <footprint>OLIMEX_Other-FP:TESTPAD_40-ROUND</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="TESTPAD" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005d6d4498</tstamps>
+    </comp>
+    <comp ref="FET1">
+      <value>WPM2015-3/TR</value>
+      <footprint>OLIMEX_Transistors-FP:SOT23</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="P-MOS+DIOD" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005813e337</tstamps>
+    </comp>
+    <comp ref="FID1">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="Fiducial" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e1aae8c</tstamps>
+    </comp>
+    <comp ref="FID2">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="Fiducial" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e1ab240</tstamps>
+    </comp>
+    <comp ref="FID3">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="Fiducial" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e1bfbf2</tstamps>
+    </comp>
+    <comp ref="FID4">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="Fiducial" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c62ee3a</tstamps>
+    </comp>
+    <comp ref="GND1">
+      <value>TESTPAD</value>
+      <footprint>OLIMEX_Other-FP:TESTPAD_40-ROUND</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="TESTPAD" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580dbda3</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0acd0652-56de-493b-a15a-c3bdb1e3b30a</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b311479-57bb-4157-8c0c-af9fac1ef3f4</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>340daffb-64ec-40b4-90f1-7a43fb7a9607</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37628167-9f5f-4234-ab00-9a77f5f8eda2</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b434bb04-a852-4796-b77d-72d60c6d8b90</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x07</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x07" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f3d1bcb-d933-4d5d-ade7-c47408915c59</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>2.2uH/1.5A/DCR=72mR/20%/3.00x3.00x1.50mm/CD32(NR3015T2R2M)</value>
+      <footprint>OLIMEX_RLC-FP:CD32</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="L" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580e1fa3</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q12MHz/20pF/10ppm/4P/3.2x2.5mm</value>
+      <footprint>OLIMEX_Crystal-FP:TSX-3.2x2.5mm_GND(3)</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="Crystal_GND" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b4a02ce</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BC817-40(SOT23)</value>
+      <footprint>OLIMEX_Transistors-FP:SOT23</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="Q_NPN_BEC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058d6b1bc</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>BC817-40(SOT23)</value>
+      <footprint>OLIMEX_Transistors-FP:SOT23</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="Q_NPN_BEC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058d74bc0</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005d08b2ac</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>470k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c87d0c9</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>2.2k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005811c32f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2.2k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b9eaeb9</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>470k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c85012a</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005cb00b71</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>2.2k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058d713ec</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>2.2k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058d74bc9</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>220R/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eb833e</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580e2698</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>22k/1%/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580e2cab</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058292085</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ec6a1f5-d0bf-486a-8aeb-c5adb4376503</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>220k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ccafd49</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>470k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ccafd3c</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k/R0402</value>
+      <footprint>OLIMEX_RLC-FP:R_0402_5MIL_DWS</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="R" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dec8dca</tstamps>
+    </comp>
+    <comp ref="RST1">
+      <value>IT-1185AU2-160G-G-TR</value>
+      <footprint>OLIMEX_Buttons-FP:IT1185AU2_V2</footprint>
+      <fields>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="SIDE_WTCM-TR(3x4)" description=""/>
+      <property name="Fieldname 1" value="Value 1"/>
+      <property name="Fieldname2" value="Value2"/>
+      <property name="Fieldname3" value="Value3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580f1a95</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>BL4054B-42TPRN(SOT23-5)</value>
+      <footprint>OLIMEX_IC-FP:SOT-23-5</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/BL4054B-42TPRN_C83783.pdf</datasheet>
+      <fields>
+        <field name="Note">PB-Free</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="BL4054B-42TPRN(SOT23-5)" description=""/>
+      <property name="Note" value="PB-Free"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b9e4fc5</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>CH340T(SSOP20W)</value>
+      <footprint>OLIMEX_IC-FP:SSOP-20W</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/1811151532_WCH-Jiangsu-Qin-Heng-CH340T_C8689.pdf</datasheet>
+      <fields>
+        <field name="Note">PB-Free</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="CH340T(SSOP20W)" description=""/>
+      <property name="Note" value="PB-Free"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058d41048</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SY8089AAAC(SOT23-5)</value>
+      <footprint>OLIMEX_Regulators-FP:SOT-23-5</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/1810311621_BL-Shanghai-Belling-BL4054B-42TPRN_C83783.pdf</datasheet>
+      <fields>
+        <field name="Note">PB-Free</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="SY8009AAAC(SOT23-5)" description=""/>
+      <property name="Note" value="PB-Free"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580e129e</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>~</value>
+      <footprint>Display:Waveshare 1.5inch OLED display Module, 128x128 pixels</footprint>
+      <libsource lib="Display_Graphic" part="Waveshare_1.5inch_OLED_display_Module,_128x128_pixels" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1152144b-81e5-4a2a-a548-2159bae4ebc6</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>ESP32-WROOM-32D-4MB</value>
+      <footprint>OLIMEX_Cases-FP:ESP32-WROVER_MODULE</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</datasheet>
+      <fields>
+        <field name="Note">PB-Free</field>
+      </fields>
+      <libsource lib="ESP32-DevKit-Lipo_Rev_C" part="ESP32-WROVER(_PCB,_IPEX,-xB)_and_ESP-WROOM-32-Universal" description=""/>
+      <property name="Note" value="PB-Free"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c7013d7</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>~</value>
+      <footprint>Button_Switch_THT:XKB8080-W</footprint>
+      <libsource lib="Switch" part="XKB8080-W" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-DevKit-Lipo_Rev_C.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cb733fb-430d-4373-8874-2c7cfacc4341</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x07">
+      <description>Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Display_Graphic" part="Waveshare_1.5inch_OLED_display_Module,_128x128_pixels">
+      <fields>
+        <field name="Reference">U4</field>
+        <field name="Value">~</field>
+        <field name="Footprint">Display:Waveshare 1.5inch OLED display Module, 128x128 pixels</field>
+      </fields>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="BAT54C(SOT23-3)">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT54C(SOT23-3)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+        <pin num="3" name="CC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="BAT_CON">
+      <fields>
+        <field name="Reference">BAT1</field>
+        <field name="Value">DW02S</field>
+        <field name="Footprint">OLIMEX_Connectors-FP:LIPO_BAT_VERTICAL_DW02S</field>
+        <field name="Fieldname 1">Value 1</field>
+        <field name="Fieldname2">Value2</field>
+        <field name="Fieldname3">Value3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="BL4054B-42TPRN(SOT23-5)">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BL4054B-42TPRN(SOT23-5)</field>
+        <field name="Footprint">OLIMEX_IC-FP:SOT-23-5</field>
+        <field name="Note">PB-Free</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CHRGb" type="open_collector"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VBAT" type="output"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="PROG" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="C">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="CH340T(SSOP20W)">
+      <footprints>
+        <fp>SSOP-20W</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CH340T(SSOP20W)</field>
+        <field name="Footprint">OLIMEX_IC-FP:SSOP-20W</field>
+        <field name="Note">PB-Free</field>
+      </fields>
+      <pins>
+        <pin num="3" name="TXD" type="output"/>
+        <pin num="4" name="RXD" type="input"/>
+        <pin num="5" name="V3" type="power_in"/>
+        <pin num="6" name="UD+" type="bidirectional"/>
+        <pin num="7" name="UD-" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="XI" type="input"/>
+        <pin num="10" name="XO" type="output"/>
+        <pin num="11" name="CTS#" type="input"/>
+        <pin num="12" name="DSR#" type="input"/>
+        <pin num="13" name="RI#" type="input"/>
+        <pin num="14" name="DCD#" type="input"/>
+        <pin num="15" name="DTR#" type="output"/>
+        <pin num="16" name="RTS#" type="output"/>
+        <pin num="17" name="IR#" type="input"/>
+        <pin num="19" name="VCC" type="power_in"/>
+        <pin num="20" name="NOS#" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="Crystal_GND">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Crystal_GND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="case" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="D_Schottky">
+      <footprints>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>Diode_*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>*_Diode_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="ESP32-WROVER(_PCB,_IPEX,-xB)_and_ESP-WROOM-32-Universal">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-WROVER(_PCB,_IPEX,-xB)_and_ESP-WROOM-32-Universal</field>
+        <field name="Footprint">OLIMEX_Cases-FP:ESP32-WROVER_MODULE</field>
+        <field name="Note">PB-Free</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VDD33(3V3)" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="GPI36/SENSOR_VP/ADC_H/ADC1_CH0/RTC_GPIO0" type="input"/>
+        <pin num="5" name="GPI39/SENSOR_VN/ADC1_CH3/ADC_H/RTC_GPIO3" type="input"/>
+        <pin num="6" name="GPI34/ADC1_CH6/RTC_GPIO4" type="input"/>
+        <pin num="7" name="GPI35/ADC1_CH7/RTC_GPIO5" type="input"/>
+        <pin num="8" name="GPIO32/XTAL_32K_P/ADC1_CH4/TOUCH9/RTC_GPIO9" type="bidirectional"/>
+        <pin num="9" name="GPIO33/XTAL_32K_N/ADC1_CH5/TOUCH8/RTC_GPIO8" type="bidirectional"/>
+        <pin num="10" name="GPIO25/DAC_1/ADC2_CH8/RTC_GPIO6/EMAC_RXD0" type="bidirectional"/>
+        <pin num="11" name="GPIO26/DAC_2/ADC2_CH9/RTC_GPIO7/EMAC_RXD1" type="bidirectional"/>
+        <pin num="12" name="GPIO27/ADC2_CH7/TOUCH7/RTC_GPIO17/EMAC_RX_DV" type="bidirectional"/>
+        <pin num="13" name="GPIO14/ADC2_CH6/TOUCH6/RTC_GPIO16/MTMS/HSPICLK/HS2_CLK/SD_CLK/EMAC_TXD2" type="bidirectional"/>
+        <pin num="14" name="GPIO12/ADC2_CH5/TOUCH5/RTC_GPIO15/MTDI/HSPIQ/HS2_DATA2/SD_DATA2/EMAC_TXD3" type="bidirectional"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="GPIO13/ADC2_CH4/TOUCH4/RTC_GPIO14/MTCK/HSPID/HS2_DATA3/SD_DATA3/EMAC_RX_ER" type="bidirectional"/>
+        <pin num="17" name="GPIO9/SD_DATA2/SPIHD/HS1_DATA2/U1RXD" type="bidirectional"/>
+        <pin num="18" name="GPIO10/SD_DATA3/SPIWP/HS1_DATA3/U1TXD" type="bidirectional"/>
+        <pin num="19" name="GPIO11/SD_CMD/SPICS0/HS1_CMD/U1RTS" type="bidirectional"/>
+        <pin num="20" name="GPIO6/SD_CLK/SPICLK/HS1_CLK/U1CTS" type="bidirectional"/>
+        <pin num="21" name="GPIO7/SD_DATA0/SPIQ/HS1_DATA0/U2RTS" type="bidirectional"/>
+        <pin num="22" name="GPIO8/SD_DATA1/SPID/HS1_DATA1/U2CTS" type="bidirectional"/>
+        <pin num="23" name="GPIO15/ADC2_CH3/TOUCH3/MTDO/HSPICS0/RTC_GPIO13/HS2_CMD/SD_CMD/EMAC_RXD3" type="bidirectional"/>
+        <pin num="24" name="GPIO2/ADC2_CH2/TOUCH2/RTC_GPIO12/HSPIWP/HS2_DATA0/SD_DATA0" type="bidirectional"/>
+        <pin num="25" name="GPIO0/ADC2_CH1/TOUCH1/RTC_GPIO11/CLK_OUT1/EMAC_TX_CLK" type="bidirectional"/>
+        <pin num="26" name="GPIO4/ADC2_CH0/TOUCH0/RTC_GPIO10/HSPIHD/HS2_DATA1/SD_DATA1/EMAC_TX_ER" type="bidirectional"/>
+        <pin num="27" name="NC(GPIO16/HS1_DATA4/U2RXD/EMAC_CLK_OUT)" type="bidirectional"/>
+        <pin num="28" name="NC(GPIO17/HS1_DATA5/U2TXD/EMAC_CLK_OUT_180)" type="bidirectional"/>
+        <pin num="29" name="GPIO5/VSPICS0/HS1_DATA6/EMAC_RX_CLK" type="bidirectional"/>
+        <pin num="30" name="GPIO18/VSPICLK/HS1_DATA7" type="bidirectional"/>
+        <pin num="31" name="GPIO19/VSPIQ/U0CTS/EMAC_TXD0" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="GPIO21/VSPIHD/EMAC_TX_EN" type="bidirectional"/>
+        <pin num="34" name="GPIO3/U0RXD/CLK_OUT2" type="bidirectional"/>
+        <pin num="35" name="GPIO1/U0TXD/CLK_OUT3/EMAC_RXD2" type="bidirectional"/>
+        <pin num="36" name="GPIO22/VSPIWP/U0RTS/EMAC_TXD1" type="bidirectional"/>
+        <pin num="37" name="GPIO23/VSPID/HS1_STROBE" type="bidirectional"/>
+        <pin num="38" name="GND" type="power_in"/>
+        <pin num="39" name="THERMAL_PAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="Fiducial">
+      <footprints>
+        <fp>*TEST_PAD40/70/SQUARE*</fp>
+        <fp>*TESTPAD50/80*</fp>
+        <fp>*TESPAD28/40*</fp>
+        <fp>*TESTPAD32/56*</fp>
+        <fp>*TESTPAD34/60*</fp>
+        <fp>*TESTPAD311_1*</fp>
+        <fp>*TESTPAD40/66/SQUARE*</fp>
+        <fp>*TESTPAD40/66*</fp>
+        <fp>*TESTPAD*</fp>
+        <fp>*TESTPAD2*</fp>
+        <fp>*TESTPAD43/80*</fp>
+        <fp>*SMD50/40*</fp>
+        <fp>*TESTPAD50/80*</fp>
+        <fp>*TESTPAD50/80_SQUARE*</fp>
+        <fp>*TESTPAD60/110*</fp>
+        <fp>*TESTPAD311*</fp>
+        <fp>*SMD80/30*</fp>
+        <fp>*SMD80/40*</fp>
+        <fp>*SMD80/50*</fp>
+        <fp>*TESTPAD80/130*</fp>
+        <fp>*TESTPAD90/69*</fp>
+        <fp>*SMD100/40*</fp>
+        <fp>*TESTPAD100/150*</fp>
+        <fp>*SMD250/80*</fp>
+        <fp>*TESTPAD40/OBLONG*</fp>
+        <fp>*TESTPAD_RPM*</fp>
+        <fp>*TESTPAD60/90_WITHOUT_MASK*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">Fiducial</field>
+        <field name="Footprint">OLIMEX_Other-FP:Fiducial1x3</field>
+      </fields>
+      <pins>
+        <pin num="Fid1" name="FID*" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="L">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="LED">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="P-MOS+DIOD">
+      <fields>
+        <field name="Reference">FET</field>
+        <field name="Value">P-MOS+DIOD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="Q_NPN_BEC">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BEC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="SIDE_WTCM-TR(3x4)">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SIDE_WTCM-TR(3x4)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="SY8009AAAC(SOT23-5)">
+      <footprints>
+        <fp>*SOT23-5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SY8009AAAC(SOT23-5)</field>
+        <field name="Footprint">OLIMEX_Regulators-FP:SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="LX" type="output"/>
+        <pin num="4" name="IN" type="input"/>
+        <pin num="5" name="FB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DevKit-Lipo_Rev_C" part="TESTPAD">
+      <footprints>
+        <fp>*TEST_PAD40/70/SQUARE*</fp>
+        <fp>*TESTPAD50/80*</fp>
+        <fp>*TESPAD28/40*</fp>
+        <fp>*TESTPAD32/56*</fp>
+        <fp>*TESTPAD34/60*</fp>
+        <fp>*TESTPAD311_1*</fp>
+        <fp>*TESTPAD40/66/SQUARE*</fp>
+        <fp>*TESTPAD40/66*</fp>
+        <fp>*TESTPAD*</fp>
+        <fp>*TESTPAD2*</fp>
+        <fp>*TESTPAD43/80*</fp>
+        <fp>*SMD50/40*</fp>
+        <fp>*TESTPAD50/80*</fp>
+        <fp>*TESTPAD50/80_SQUARE*</fp>
+        <fp>*TESTPAD60/110*</fp>
+        <fp>*TESTPAD311*</fp>
+        <fp>*SMD80/30*</fp>
+        <fp>*SMD80/40*</fp>
+        <fp>*SMD80/50*</fp>
+        <fp>*TESTPAD80/130*</fp>
+        <fp>*TESTPAD90/69*</fp>
+        <fp>*SMD100/40*</fp>
+        <fp>*TESTPAD100/150*</fp>
+        <fp>*SMD250/80*</fp>
+        <fp>*TESTPAD40/OBLONG*</fp>
+        <fp>*TESTPAD_RPM*</fp>
+        <fp>*TESTPAD60/90_WITHOUT_MASK*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TESTPAD</field>
+        <field name="Value">TESTPAD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pad" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="XKB8080-W">
+      <fields>
+        <field name="Reference">X</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>D:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>D:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Display_Graphic">
+      <uri>D:\Program Files\KiCad\7.0\share\kicad\symbols\/Display_Graphic.kicad_sym</uri>
+    </library>
+    <library logical="ESP32-DevKit-Lipo_Rev_C">
+      <uri>D:\Synkom\Projects\display_control\hardware\devkit-lipo\ESP32-DevKit-LiPo\HARDWARE\ESP32-DevKit-LiPo-Rev.C/ESP32-DevKit-Lipo_Rev_C.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>D:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>D:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="VDD33(3V3)" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="CHARGING1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="FET1" pin="1" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="/+5V_USB">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="4" name="/D_Com">
+      <node ref="D3" pin="3" pinfunction="CC" pintype="passive"/>
+      <node ref="D_Com1" pin="1" pinfunction="Pad" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/ESP_EN">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="RST1" pin="1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="6" name="/GPI34">
+      <node ref="U5" pin="6" pinfunction="GPI34/ADC1_CH6/RTC_GPIO4" pintype="input"/>
+    </net>
+    <net code="7" name="/GPI35">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="GPI35/ADC1_CH7/RTC_GPIO5" pintype="input"/>
+    </net>
+    <net code="8" name="/GPI36\SENSOR_VP">
+      <node ref="U5" pin="4" pinfunction="GPI36/SENSOR_VP/ADC_H/ADC1_CH0/RTC_GPIO0" pintype="input"/>
+    </net>
+    <net code="9" name="/GPI39\SENSOR_VN">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="GPI39/SENSOR_VN/ADC1_CH3/ADC_H/RTC_GPIO3" pintype="input"/>
+    </net>
+    <net code="10" name="/GPIO0">
+      <node ref="D3" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="U5" pin="25" pinfunction="GPIO0/ADC2_CH1/TOUCH1/RTC_GPIO11/CLK_OUT1/EMAC_TX_CLK" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/GPIO1\U0TXD">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U5" pin="35" pinfunction="GPIO1/U0TXD/CLK_OUT3/EMAC_RXD2" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/GPIO2">
+      <node ref="D3" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="U5" pin="24" pinfunction="GPIO2/ADC2_CH2/TOUCH2/RTC_GPIO12/HSPIWP/HS2_DATA0/SD_DATA0" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/GPIO3\U0RXD">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U5" pin="34" pinfunction="GPIO3/U0RXD/CLK_OUT2" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/GPIO4">
+      <node ref="U5" pin="26" pinfunction="GPIO4/ADC2_CH0/TOUCH0/RTC_GPIO10/HSPIHD/HS2_DATA1/SD_DATA1/EMAC_TX_ER" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/GPIO5">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U5" pin="29" pinfunction="GPIO5/VSPICS0/HS1_DATA6/EMAC_RX_CLK" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/GPIO6\SD_CLK">
+      <node ref="U5" pin="20" pinfunction="GPIO6/SD_CLK/SPICLK/HS1_CLK/U1CTS" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/GPIO7\SD_DATA0">
+      <node ref="U5" pin="21" pinfunction="GPIO7/SD_DATA0/SPIQ/HS1_DATA0/U2RTS" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/GPIO8\SD_DATA1">
+      <node ref="U5" pin="22" pinfunction="GPIO8/SD_DATA1/SPID/HS1_DATA1/U2CTS" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/GPIO9\SD_DATA2">
+      <node ref="U5" pin="17" pinfunction="GPIO9/SD_DATA2/SPIHD/HS1_DATA2/U1RXD" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/GPIO10\SD_DATA3">
+      <node ref="U5" pin="18" pinfunction="GPIO10/SD_DATA3/SPIWP/HS1_DATA3/U1TXD" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/GPIO11\SD_CMD">
+      <node ref="U5" pin="19" pinfunction="GPIO11/SD_CMD/SPICS0/HS1_CMD/U1RTS" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/GPIO12">
+      <node ref="U5" pin="14" pinfunction="GPIO12/ADC2_CH5/TOUCH5/RTC_GPIO15/MTDI/HSPIQ/HS2_DATA2/SD_DATA2/EMAC_TXD3" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/GPIO13">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U5" pin="16" pinfunction="GPIO13/ADC2_CH4/TOUCH4/RTC_GPIO14/MTCK/HSPID/HS2_DATA3/SD_DATA3/EMAC_RX_ER" pintype="bidirectional"/>
+      <node ref="X1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="X1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="X1" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="24" name="/GPIO14">
+      <node ref="U5" pin="13" pinfunction="GPIO14/ADC2_CH6/TOUCH6/RTC_GPIO16/MTMS/HSPICLK/HS2_CLK/SD_CLK/EMAC_TXD2" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/GPIO15">
+      <node ref="U5" pin="23" pinfunction="GPIO15/ADC2_CH3/TOUCH3/MTDO/HSPICS0/RTC_GPIO13/HS2_CMD/SD_CMD/EMAC_RXD3" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/GPIO16">
+      <node ref="U5" pin="27" pinfunction="NC(GPIO16/HS1_DATA4/U2RXD/EMAC_CLK_OUT)" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/GPIO17">
+      <node ref="U5" pin="28" pinfunction="NC(GPIO17/HS1_DATA5/U2TXD/EMAC_CLK_OUT_180)" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/GPIO18">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U5" pin="30" pinfunction="GPIO18/VSPICLK/HS1_DATA7" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/GPIO19">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U5" pin="31" pinfunction="GPIO19/VSPIQ/U0CTS/EMAC_TXD0" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/GPIO21">
+      <node ref="U5" pin="33" pinfunction="GPIO21/VSPIHD/EMAC_TX_EN" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/GPIO22">
+      <node ref="U5" pin="36" pinfunction="GPIO22/VSPIWP/U0RTS/EMAC_TXD1" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/GPIO23">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U5" pin="37" pinfunction="GPIO23/VSPID/HS1_STROBE" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/GPIO25">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="GPIO25/DAC_1/ADC2_CH8/RTC_GPIO6/EMAC_RXD0" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/GPIO26">
+      <node ref="U5" pin="11" pinfunction="GPIO26/DAC_2/ADC2_CH9/RTC_GPIO7/EMAC_RXD1" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/GPIO27">
+      <node ref="U5" pin="12" pinfunction="GPIO27/ADC2_CH7/TOUCH7/RTC_GPIO17/EMAC_RX_DV" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/GPIO32">
+      <node ref="U5" pin="8" pinfunction="GPIO32/XTAL_32K_P/ADC1_CH4/TOUCH9/RTC_GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/GPIO33">
+      <node ref="U5" pin="9" pinfunction="GPIO33/XTAL_32K_N/ADC1_CH5/TOUCH8/RTC_GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="GND">
+      <node ref="BAT1" pin="1" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="GND1" pin="1" pinfunction="Pad" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="case" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="RST1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="38" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="39" pinfunction="THERMAL_PAD" pintype="power_in"/>
+      <node ref="X1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="X1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="X1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(#FLG0102-pwr)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="V3" pintype="power_in"/>
+    </net>
+    <net code="40" name="Net-(CHARGING1-K)">
+      <node ref="CHARGING1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D2-K)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="FET1" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="EN" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="TXD" pintype="output"/>
+    </net>
+    <net code="43" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="RXD" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(Q2-B)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(Q2-E)">
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="RTS#" pintype="output"/>
+    </net>
+    <net code="46" name="Net-(Q3-B)">
+      <node ref="Q3" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(Q3-C)">
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(Q3-E)">
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="DTR#" pintype="output"/>
+    </net>
+    <net code="49" name="Net-(U1-CHRGb)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="CHRGb" pintype="open_collector"/>
+    </net>
+    <net code="50" name="Net-(U1-PROG)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="PROG" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(U2-UD+)">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pinfunction="UD+" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="Net-(U2-UD-)">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U2" pin="7" pinfunction="UD-" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="Net-(U2-XI)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="XI" pintype="input"/>
+    </net>
+    <net code="54" name="Net-(U2-XO)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="XO" pintype="output"/>
+    </net>
+    <net code="55" name="Net-(U3-FB)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(U3-LX)">
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="LX" pintype="output"/>
+    </net>
+    <net code="57" name="VBAT">
+      <node ref="BAT1" pin="2" pintype="passive"/>
+      <node ref="FET1" pin="3" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VBAT" pintype="output"/>
+    </net>
+    <net code="58" name="unconnected-(FID1-FID*-PadFid1)">
+      <node ref="FID1" pin="Fid1" pinfunction="FID*" pintype="no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(FID2-FID*-PadFid1)">
+      <node ref="FID2" pin="Fid1" pinfunction="FID*" pintype="no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(FID3-FID*-PadFid1)">
+      <node ref="FID3" pin="Fid1" pinfunction="FID*" pintype="no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(FID4-FID*-PadFid1)">
+      <node ref="FID4" pin="Fid1" pinfunction="FID*" pintype="no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(J1-CC1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(J1-CC2-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(J1-SBU1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(J1-SBU2-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U2-CTS#-Pad11)">
+      <node ref="U2" pin="11" pinfunction="CTS#" pintype="input+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U2-DCD#-Pad14)">
+      <node ref="U2" pin="14" pinfunction="DCD#" pintype="input+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U2-DSR#-Pad12)">
+      <node ref="U2" pin="12" pinfunction="DSR#" pintype="input+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U2-IR#-Pad17)">
+      <node ref="U2" pin="17" pinfunction="IR#" pintype="input+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U2-NOS#-Pad20)">
+      <node ref="U2" pin="20" pinfunction="NOS#" pintype="input+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U2-RI#-Pad13)">
+      <node ref="U2" pin="13" pinfunction="RI#" pintype="input+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U5-NC-Pad32)">
+      <node ref="U5" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
