@@ -178,6 +178,7 @@ The **Smart Button** enclosure is a **custom-designed mechanical housing** that 
         <b>Smart Button:</b><br>
         <img src="./doc/full_device_view.png" alt="Smart Button" width="70%" style="margin-top: 20px;">
     </div>
+    
     <div>
         <b>Receiver:</b><br>
         <img src="./doc/receiver_view.png" alt="Receiver" width="65%" style="margin-top: 20px;">
@@ -200,6 +201,7 @@ The **Smart Button** enclosure is a **custom-designed mechanical housing** that 
       <b>Main Body Assembly:</b><br>
       <img src="./doc/main_body_assembly_view.png" alt="Main Body Assembly" width="200%" style="margin-top: 20px;">
    </div>
+   
    <div>
       <b>Receiver Assembly:</b><br>
       <img src="./doc/receiver_assembly_view.png" alt="Receiver Assembly" width="65%" style="margin-top: 20px;">
@@ -213,11 +215,6 @@ The **Smart Button** enclosure is a **custom-designed mechanical housing** that 
   - Adjusting dimensions for alternative PCB layouts.
   - Customizing button colors and shapes for different applications.
   - Adding ventilation or additional mounting options.
-
-
-<div align="center" style="margin-bottom: 20px;">
-    <img src="./doc/print_view.gif" alt="User Guide" width="60%" style="margin-top: 20px;">
-</div>
 
 
 ## Usage
