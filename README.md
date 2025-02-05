@@ -31,19 +31,25 @@ The detailed schematic of the **Smart Button** circuit can be found in the [doc 
 ## PCB Layout
 The project includes a fully designed two-layer PCB for manufacturing. Components are placed exclusevily on top layer to lower the assebly cost and simplify the repairs. For similar reason, in terms of component enclosure type, the preference was given to SMD components. Layout files are available in the hardware folder.
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-top: 30px; margin-bottom: 20px;">
     <b>Top View:</b><br>
-    <img src="./doc/board_top_view.png" alt="PCB Top" width="60%">
+    <div style="margin-top: 20px;">
+        <img src="./doc/board_top_view.png" alt="PCB Top" width="60%">
+    </div>
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-top: 30px; margin-bottom: 20px;">
     <b>Bottom View:</b><br>
-    <img src="./doc/board_bottom_view.png" alt="PCB Bottom" width="60%">
+    <div style="margin-top: 20px;">
+        <img src="./doc/board_bottom_view.png" alt="PCB Bottom" width="60%">
+    </div>
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-top: 30px; margin-bottom: 20px;">
     <b>Side View:</b><br>
-    <img src="./doc/board_side_view.png" alt="PCB Side" width="60%">
+    <div style="margin-top: 20px;">
+        <img src="./doc/board_side_view.png" alt="PCB Side" width="60%">
+    </div>
 </div>
 
 
@@ -107,6 +113,22 @@ There are two ways to connect the Smart Button to the computer:
    - Monitors the **last button press time** to prevent unintended actions.
    - Supports **automatic sleep mode handling** if the button is inactive.
 
+<div align="center" style="margin-bottom: 20px;">
+    <b>Main App Window:</b><br>
+    <img src="./doc/app_main_screen_view.png" alt="Main App Window" width="60%" style="margin-top: 20px;">
+</div>
+
+<div align="center" style="margin-bottom: 20px;">
+    <b>Action Pick:</b><br>
+    <img src="./doc/app_action_view.png" alt="Action Pick" width="60%" style="margin-top: 20px;">
+</div>
+
+<div align="center" style="margin-bottom: 20px;">
+    <b>User Guide:</b><br>
+    <img src="./doc/app_info_view.png" alt="User Guide" width="60%" style="margin-top: 20px;">
+</div>
+
+
 ## Firmware Overview
 The firmware is written using ESP-IDF and structured as follows:
 
@@ -151,6 +173,19 @@ The **Smart Button** enclosure is a **custom-designed mechanical housing** that 
 2. **Bottom Enclosure** – Designed to securely hold the **PCB and battery**, optimizing space for a compact form factor.  
 3. **Button** – A **large, colorful, and easy-to-press button**, providing a tactile and responsive experience.
 
+<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
+    <div>
+        <b>Smart Button:</b><br>
+        <img src="./doc/full_device_view.png" alt="Smart Button" width="70%" style="margin-top: 20px;">
+    </div>
+    <div>
+        <b>Receiver:</b><br>
+        <img src="./doc/receiver_view.png" alt="Receiver" width="65%" style="margin-top: 20px;">
+    </div>
+</div>
+
+
+
 #### **Design & Manufacturing**
 - The enclosure was designed using **Fusion 360** for precise integration with the PCB and battery.
 - The entire assembly is **optimized for 3D printing**, allowing for easy prototyping and customization.
@@ -160,11 +195,29 @@ The **Smart Button** enclosure is a **custom-designed mechanical housing** that 
 - Assembly is **simple and efficient**, requiring only **three bolts** to securely hold the enclosure together.
 - The button fits into the **top enclosure**, allowing for **firm yet smooth movement** when pressed.
 
+<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
+   <div>
+      <b>Main Body Assembly:</b><br>
+      <img src="./doc/main_body_assembly_view.png" alt="Main Body Assembly" width="200%" style="margin-top: 20px;">
+   </div>
+   <div>
+      <b>Receiver Assembly:</b><br>
+      <img src="./doc/receiver_assembly_view.png" alt="Receiver Assembly" width="65%" style="margin-top: 20px;">
+   </div>
+</div>
+
+
+
 #### **Customization & Modifications**
 - The **3D printable design** allows for easy modifications, such as:
   - Adjusting dimensions for alternative PCB layouts.
   - Customizing button colors and shapes for different applications.
   - Adding ventilation or additional mounting options.
+
+
+<div align="center" style="margin-bottom: 20px;">
+    <img src="./doc/print_view.gif" alt="User Guide" width="60%" style="margin-top: 20px;">
+</div>
 
 
 ## Usage
