@@ -173,17 +173,9 @@ The **Smart Button** enclosure is a **custom-designed mechanical housing** that 
 2. **Bottom Enclosure** – Designed to securely hold the **PCB and battery**, optimizing space for a compact form factor.  
 3. **Button** – A **large, colorful, and easy-to-press button**, providing a tactile and responsive experience.
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
-    <div>
-        <b>Smart Button:</b><br>
-        <img src="./doc/full_device_view.png" alt="Smart Button" width="70%" style="margin-top: 20px;">
-    </div>
-    
-    <div>
-        <b>Receiver:</b><br>
-        <img src="./doc/receiver_view.png" alt="Receiver" width="65%" style="margin-top: 20px;">
-    </div>
-</div>
+| Smart Button | Receiver |
+|-------------|----------|
+|  ![Smart Button](./doc/full_device_view.png) |  ![Receiver](./doc/receiver_view.png) |
 
 
 
@@ -196,17 +188,9 @@ The **Smart Button** enclosure is a **custom-designed mechanical housing** that 
 - Assembly is **simple and efficient**, requiring only **three bolts** to securely hold the enclosure together.
 - The button fits into the **top enclosure**, allowing for **firm yet smooth movement** when pressed.
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
-   <div>
-      <b>Main Body Assembly:</b><br>
-      <img src="./doc/main_body_assembly_view.png" alt="Main Body Assembly" width="200%" style="margin-top: 20px;">
-   </div>
-   
-   <div>
-      <b>Receiver Assembly:</b><br>
-      <img src="./doc/receiver_assembly_view.png" alt="Receiver Assembly" width="65%" style="margin-top: 20px;">
-   </div>
-</div>
+| Main Body Assembly | Receiver Assembly |
+|-------------------|------------------|
+|  ![Main Body Assembly](./doc/main_body_assembly_view.png) | ![Receiver Assembly](./doc/receiver_assembly_view.png) |
 
 
 
