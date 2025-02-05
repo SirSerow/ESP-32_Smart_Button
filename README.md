@@ -115,7 +115,7 @@ There are two ways to connect the Smart Button to the computer:
 
 <div align="center" style="margin-bottom: 20px;">
     <b>Main App Window:</b><br>
-    <img src="./doc/app_main_screen_view.png" alt="Main App Window" width="60%" style="margin-top: 20px;">
+    <img src="./doc/app_main_screen_view.PNG" alt="Main App Window" width="60%" style="margin-top: 20px;">
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
